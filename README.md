@@ -1,1 +1,1 @@
-# bank-loan-
+linear agression trained model with frontend
